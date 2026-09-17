@@ -20,7 +20,6 @@ The main goal was to achieve stable vertical flight while maintaining a safe sta
 ## Flight Performance & 3D Visualization
 Flight metrics were exported from OpenRocket numerical logs and post-processed using Python.
 
-![3D Flight Trajectory](trajectory_3d.png)
 
 * **Apogee:** ~875.7 m
 * **Interactive Visualization:** The repository includes `flight_trajectory.html`. Opening it in any browser provides an interactive 3D model of the trajectory with speed-mapped coloring and airframe orientation at apogee.
