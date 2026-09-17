@@ -1,6 +1,9 @@
 # Model Rocket Aerodynamic Design & 3D Flight Telemetry
 
 A personal engineering project focused on designing a high-power model rocket in OpenRocket and building a Python pipeline to process flight data, reconstruct 3D trajectories, and visualize real-time telemetries.
+<img width="1920" height="1200" alt="openrocket_plot" src="https://github.com/user-attachments/assets/836b80a4-8d24-4000-8b97-901c414c51ec" />
+<img width="1920" height="1200" alt="openrocket_simulation" src="https://github.com/user-attachments/assets/0a819417-a117-4d97-b37e-8ca6e915d351" />
+<img width="1920" height="1140" alt="openrocket" src="https://github.com/user-attachments/assets/e7e2e292-d14c-4861-b737-58c0aea9cabb" />
 
 ---
 
